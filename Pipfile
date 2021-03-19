@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 click = ">=7.1.2"
 requests = "==2.24.0"
-pillow = "<=7.2.0"
+pillow = "<8.2.0"
 django = "==2.0"
 
 [dev-packages]
